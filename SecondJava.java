@@ -3,5 +3,5 @@ import java.lang.*;
    public static void main(String[] args)  
   {  
     System.out.println("This is my second Java program."); 
-      StdOut.print("Type the second integer: ");
+      StdOut.print("Type the 2nd integer: ");
   } }  
